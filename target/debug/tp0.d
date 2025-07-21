@@ -1,1 +1,1 @@
-C:\Users\mathi\tp0\target\debug\tp0.exe: C:\Users\mathi\tp0\src\main.rs
+C:\Users\mathi\rust-2025\target\debug\tp0.exe: C:\Users\mathi\rust-2025\src\main.rs

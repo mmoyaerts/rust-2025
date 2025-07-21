@@ -19,8 +19,3 @@
 
   * Immuable : `&T` (lecture)
   * Mutable : `&mut T` (lecture/écriture)
-
-**Références** :
-
-* The Rust Book: [https://doc.rust-lang.org/book/](https://doc.rust-lang.org/book/)
-* rust-lang.org
